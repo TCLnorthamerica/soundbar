@@ -1,0 +1,2 @@
+1. Import Google C4A 1.56
+2. Fix bug:Play Dolby atmos in the prime video with Amazon Fire TV, will no audio output.
