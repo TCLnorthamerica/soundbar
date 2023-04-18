@@ -1,4 +1,5 @@
 v107_110521
+<br>
 Release Date: 11/05/2021
 
 - Add the “DO NOT SUPPORT” prompt function on Soundbar LED Display when playing DTS audio format.
